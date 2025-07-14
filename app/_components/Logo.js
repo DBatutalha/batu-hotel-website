@@ -9,7 +9,7 @@ function Logo() {
       <Image
         src={logo}
         quality={100}
-        height="140"
+        height="120"
         width="80"
         alt="The Batu Hotel"
       />
