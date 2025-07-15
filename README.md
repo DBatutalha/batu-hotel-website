@@ -2,6 +2,8 @@
 
 > **Portfolio Projesi** - Bu proje, modern web geliştirme teknolojileri kullanılarak oluşturulmuş bir otel rezervasyon sistemi olup, **portfolio amaçlı** geliştirilmiştir.
 
+**[Batu Hotel Management - Canlı Website](https://batu-hotel-website.vercel.app/)**
+
 ## 📋 Proje Hakkında
 
 **The Batu Hotel**, İtalya Dolomitleri'nde hayali bir lüks otel için geliştirilmiş tam işlevsel bir rezervasyon sistemidir. Proje, gerçek dünya senaryolarına uygun olarak tasarlanmış ve modern web geliştirme teknikleri kullanılarak inşa edilmiştir.
